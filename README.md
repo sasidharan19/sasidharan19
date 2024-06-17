@@ -1,4 +1,3 @@
-[![Sasidharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasidharan19)](https://github.com/sasidharan19/github-readme-stats)
 
 <!--
 **sasidharan19/sasidharan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
